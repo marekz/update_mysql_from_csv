@@ -15,7 +15,7 @@ class ImportFile {
     private $host = '127.0.0.1';
     private $user = 'root';
     private $password = 'root';
-    private $database = 'inditex_complaint';
+    private $database = 'application';
     private $sqlQuery;
     private $newDbConnect;
 
